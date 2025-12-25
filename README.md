@@ -47,6 +47,7 @@ The game detects the player’s face and movement via a webcam feed and translat
 2. Install dependencies:
    ```bash
    pip install opencv-python numpy
-3. Run the game
+3. Run the game:
+   ```bash
    python CakePopDemonHunters.py
 4. Make sure webcam is accessible
